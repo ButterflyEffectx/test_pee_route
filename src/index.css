@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-proLis{
+  background-color: aliceblue;
+  height: 45px;
+  border-radius: 20px;
+  padding: 5px 0 5px 22px;
+}
+
+.remove-btn{
+  margin-left: 30px;
+}
+
+.cart-pro{
+  width: 280px;
+}
+
+.cart-addNew{
+  background-color: aliceblue;
+  height: 35px;
+  text-align: center;
+  border-radius: 20px;
+  padding: 2px 0 5px;
+}
